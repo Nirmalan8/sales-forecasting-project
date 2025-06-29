@@ -49,6 +49,24 @@ This project uses past weekly sales data to predict future sales using a simple 
      - Root Mean Squared Error (RMSE)
 
 6. **Prediction**
+7. ---
+
+##  What I Learned
+
+- How to prepare date features for time-based predictions
+- Building a basic regression model in scikit-learn
+- Evaluating model performance with error metrics
+- Visualizing time series data
+
+---
+
+##  Future Ideas
+
+- Add moving averages or lag-based features
+- Compare models: Random Forest, XGBoost
+- Deploy the model with Streamlit for real-time predictions
+
+---
    - Forecast sales for a custom date (like June 2025)
 
 ---
