@@ -48,8 +48,8 @@ This project uses past weekly sales data to predict future sales using a simple 
      - Mean Absolute Error (MAE)
      - Root Mean Squared Error (RMSE)
 
-6. **Prediction**
-7. ---
+  
+ ---
 
 ##  What I Learned
 
